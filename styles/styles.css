@@ -1,0 +1,25 @@
+body > div:first-child {
+  overflow-x: hidden;
+}
+
+.btn-icon {
+  margin-bottom: 10px;
+}
+
+.contact {
+  margin: 5px !important;
+  text-align: center;
+}
+
+.contact > a {
+  color: #11cdef !important;
+  margin-bottom: 0px !important;
+}
+
+.btn-wrapper {
+  margin-top: 10px !important;
+}
+
+.projects_card {
+  height: 320px !important;
+}
